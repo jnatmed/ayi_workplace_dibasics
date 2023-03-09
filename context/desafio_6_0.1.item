@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_BM93IK__Ee2cqthL1sF_OA" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_BM93Ia__Ee2cqthL1sF_OA" comment="" name="ruta" prompt="ruta?" promptNeeded="false" type="id_String" value="C:/Users/FamiliaNatelloMedina/Documents/UNLu/AYI ACADEMI/Módulo 6/SALIDA/dev/procesados/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_BM93Iq__Ee2cqthL1sF_OA" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_BM93I6__Ee2cqthL1sF_OA" comment="" name="ruta" prompt="ruta?" promptNeeded="false" type="id_String" value="C:/Users/FamiliaNatelloMedina/Documents/UNLu/AYI ACADEMI/Módulo 6/SALIDA/prod/procesados/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

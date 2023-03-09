@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_K-dPIKy5Ee26QtueIri98w" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_K-dPIay5Ee26QtueIri98w" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_K-dPIqy5Ee26QtueIri98w" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_K-dPI6y5Ee26QtueIri98w" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_K-dPJKy5Ee26QtueIri98w" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:2RIvrgA5neVi0ETmkOnyCQ1//+L58V/RiB72LQjnLbBkWw=="/>
+    <contextParameter xmi:id="_K-dPJay5Ee26QtueIri98w" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_K-dPJqy5Ee26QtueIri98w" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_K-dPJ6y5Ee26QtueIri98w" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" type="id_Directory" value="C:/Users/FamiliaNatelloMedina/Documents/UNLu/AYI ACADEMI/Módulo 6/SALIDA/DEV/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_K-dPKKy5Ee26QtueIri98w" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_K-dPKay5Ee26QtueIri98w" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_K-dPKqy5Ee26QtueIri98w" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_K-dPK6y5Ee26QtueIri98w" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_K-dPLKy5Ee26QtueIri98w" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:vnr/IQM/m5irgdlg+hNAy3LgnOxZglQzA2K73pNxQkRbgw=="/>
+    <contextParameter xmi:id="_K-dPLay5Ee26QtueIri98w" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_K-dPLqy5Ee26QtueIri98w" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_K-dPL6y5Ee26QtueIri98w" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" type="id_Directory" value="C:/Users/FamiliaNatelloMedina/Documents/UNLu/AYI ACADEMI/Módulo 6/SALIDA/PROD/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

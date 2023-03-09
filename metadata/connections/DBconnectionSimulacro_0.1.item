@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_alKRwL0hEe2Poocn9usbxA" name="DBconnectionSimulacro" id="_O1FV8L0hEe2Poocn9usbxA" label="DBconnectionSimulacro" dataPackage="_jfB1cL0hEe2Poocn9usbxA" ContextMode="true" ContextId="_jIgy4L0hEe2Poocn9usbxA" contextName="Default" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/training?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="context.DBconnectionSimulacro_Port" Username="context.DBconnectionSimulacro_Login" Password="context.DBconnectionSimulacro_Password" ServerName="context.DBconnectionSimulacro_Server" DatasourceName="" FileFieldName="" SID="context.DBconnectionSimulacro_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.DBconnectionSimulacro_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_alKRwb0hEe2Poocn9usbxA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_almWoL0hEe2Poocn9usbxA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_alrPIL0hEe2Poocn9usbxA" tag="Status" value=""/>
+    <taggedValue xmi:id="_alrPIb0hEe2Poocn9usbxA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_alrPIr0hEe2Poocn9usbxA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_alrPI70hEe2Poocn9usbxA" tag="Description" value=""/>
+    <taggedValue xmi:id="_alrPJL0hEe2Poocn9usbxA" tag="Author" value=""/>
+    <taggedValue xmi:id="_alrPJb0hEe2Poocn9usbxA" tag="otherParameter"/>
+    <taggedValue xmi:id="_amBNYL0hEe2Poocn9usbxA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_amBNYb0hEe2Poocn9usbxA" tag="DB ProductVersion" value="8.0.25"/>
+    <taggedValue xmi:id="_amBNYr0hEe2Poocn9usbxA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_alKRwr0hEe2Poocn9usbxA" key="CONN_PARA_KEY_USERNAME" value="context.DBconnectionSimulacro_Login"/>
+    <parameters xmi:id="_dl2bkL0hEe2Poocn9usbxA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_jfB1cL0hEe2Poocn9usbxA" name="training" dataManager="_alKRwL0hEe2Poocn9usbxA"/>
+</xmi:XMI>

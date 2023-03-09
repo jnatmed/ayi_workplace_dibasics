@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_4AqusL07Ee2Poocn9usbxA" name="dbconnexionExamen" id="_l6dXQL07Ee2Poocn9usbxA" label="dbconnexionExamen" dataPackage="_4BaVkL07Ee2Poocn9usbxA" ContextMode="true" ContextId="_3nKCgL07Ee2Poocn9usbxA" contextName="test" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/training?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="context.dbconnexionExamen_Port" Username="context.dbconnexionExamen_Login" Password="context.dbconnexionExamen_Password" ServerName="context.dbconnexionExamen_Server" DatasourceName="" FileFieldName="" SID="context.dbconnexionExamen_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.dbconnexionExamen_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_4Aqusb07Ee2Poocn9usbxA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_4BAF4L07Ee2Poocn9usbxA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_4BAs8L07Ee2Poocn9usbxA" tag="Status" value=""/>
+    <taggedValue xmi:id="_4BAs8b07Ee2Poocn9usbxA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_4BAs8r07Ee2Poocn9usbxA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_4BAs8707Ee2Poocn9usbxA" tag="Description" value=""/>
+    <taggedValue xmi:id="_4BAs9L07Ee2Poocn9usbxA" tag="Author" value=""/>
+    <taggedValue xmi:id="_4BAs9b07Ee2Poocn9usbxA" tag="otherParameter"/>
+    <taggedValue xmi:id="_4BM6ML07Ee2Poocn9usbxA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_4BM6Mb07Ee2Poocn9usbxA" tag="DB ProductVersion" value="8.0.25"/>
+    <taggedValue xmi:id="_4BM6Mr07Ee2Poocn9usbxA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_4Aqusr07Ee2Poocn9usbxA" key="CONN_PARA_KEY_USERNAME" value="context.dbconnexionExamen_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_4BaVkL07Ee2Poocn9usbxA" name="training" dataManager="_4AqusL07Ee2Poocn9usbxA"/>
+</xmi:XMI>

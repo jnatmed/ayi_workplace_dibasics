@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_jIu1UL0hEe2Poocn9usbxA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_jIu1Ub0hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_AdditionalParams" prompt="DBconnectionSimulacro_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter xmi:id="_jIu1Ur0hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_Database" prompt="DBconnectionSimulacro_Database?" promptNeeded="false" type="id_String" value="training"/>
+  <contextParameter xmi:id="_jIu1U70hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_Login" prompt="DBconnectionSimulacro_Login?" promptNeeded="false" type="id_String" value="talend"/>
+  <contextParameter xmi:id="_jIu1VL0hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_Server" prompt="DBconnectionSimulacro_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_jIu1Vb0hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_Port" prompt="DBconnectionSimulacro_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_jIu1Vr0hEe2Poocn9usbxA" comment="" name="DBconnectionSimulacro_Password" prompt="DBconnectionSimulacro_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:5PYa6aLrVZI1bBLydAtZGT8VFSE0zkoAGjw2nsjZIPK0zA=="/>
+</talendfile:ContextType>
